@@ -1,0 +1,5 @@
+Michael,999994.0,SS,
+NickCsgo,999999.99,AA,
+Nick,3506.16,FS,TFT2-90.0-GTA5-100.0
+Haris,6307.72,AA,
+Talha,68220.0,AA,Csgo-10.0
